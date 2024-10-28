@@ -34,7 +34,6 @@
 [![Nervos Certified](https://img.shields.io/badge/Nervos-Certified-FF4B00?style=flat&logo=nervos)](https://www.nervos.org/)
 [![FIO Protocol Certified](https://img.shields.io/badge/FIO%20Protocol-Certified-00B2A9?style=flat&logo=fio)](https://fioprotocol.io/)
 [![Wanchain Certified](https://img.shields.io/badge/Wanchain-Certified-4B8B3B?style=flat&logo=wanchain)](https://wanchain.org/)
-[![Celo Certified](https://img.shields.io/badge/Celo-Certified-00B2A9?style=flat&logo=celo)](https://celo.org/)
 [![Syscoin Certified](https://img.shields.io/badge/Syscoin-Certified-4B8B3B?style=flat&logo=syscoin)](https://syscoin.org/)
 [![OriginTrail Certified](https://img.shields.io/badge/OriginTrail-Certified-4B8B3B?style=flat&logo=origintrail)](https://origintrail.io/)
 
