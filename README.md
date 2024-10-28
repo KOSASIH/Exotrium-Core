@@ -87,6 +87,17 @@
 [![Microsoft Certified: Azure Security Engineer Associate](https://img.shields.io/badge/Microsoft_Azure_Security_Engineer_Associate-Certified-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
 [![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-0072C6?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
 
+[![Chartered Financial Analyst (CFA)](https://img.shields.io/badge/Chartered_Financial_Analyst-CFA-4B8BBE?style=flat&logo=cfa)](https://www.cfainstitute.org/en/programs/cfa)
+[![Certified Financial Planner (CFP)](https://img.shields.io/badge/Certified_Financial_Planner-CFP-0072B8?style=flat&logo=cfp)](https://www.cfp.net/)
+[![Financial Risk Manager (FRM)](https://img.shields.io/badge/Financial_Risk_Manager-FRM-FF6F20?style=flat&logo=frm)](https://www.garp.org/frm)
+[![Certified Public Accountant (CPA)](https://img.shields.io/badge/Certified_Public_Accountant-CPA-0072C6?style=flat&logo=accounting)](https://www.aicpa.org/)
+[![Chartered Alternative Investment Analyst (CAIA)](https://img.shields.io/badge/Chartered_Alternative_Investment_Analyst-CAIA-4B8BBE?style=flat&logo=caia)](https://caia.org/)
+[![Association of Chartered Certified Accountants (ACCA)](https://img.shields.io/badge/Association_of_Chartered_Certified_Accountants-ACCA-0072C6?style=flat&logo=acca)](https://www.accaglobal.com/)
+[![Institute of Management Accountants (IMA)](https://img.shields.io/badge/Institute_of_Management_Accountants-IMA-0072B8?style=flat&logo=ima)](https://www.imanet.org/)
+[![Global Association of Risk Professionals (GARP)](https://img.shields.io/badge/Global_Association_of_Risk_Professionals-GARP-FF6F20?style=flat&logo=garp)](https://www.garp.org/)
+[![International Financial Reporting Standards (IFRS)](https://img.shields.io/badge/International_Financial_Reporting_Standards-IFRS-0072C6?style=flat&logo=ifrs)](https://www.ifrs.org/)
+[![Financial Planning Association (FPA)](https://img.shields.io/badge/Financial_Planning_Association-FPA-0072B8?style=flat&logo=fpa)](https://www.onefpa.org/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # Exotrium-Core
