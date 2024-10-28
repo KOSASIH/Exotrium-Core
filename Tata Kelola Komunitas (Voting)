@@ -1,0 +1,31 @@
+pragma solidity ^0.8.0;
+
+contract CommunityGovernance {
+    struct Proposal {
+        uint id;
+        string description;
+        uint voteCount;
+    }
+
+    mapping(uint => Proposal) public proposals;
+    mapping(address => bool) public voters;
+    uint public proposalCount = 0;
+
+    event ProposalCreated(uint id, string description);
+    event Voted(uint proposalId);
+
+    function createProposal(string memory _description) public {
+        proposalCount++;
+        proposals[proposalCount] = Proposal(proposalCount, _description, 0);
+        emit ProposalCreated(proposalCount, _description);
+    }
+
+    function vote(uint _proposalId) public {
+        require(!voters[msg.sender], "Anda sudah memberikan suara");
+        require(proposals[_proposalId].id > 0, "Proposal tidak valid");
+
+        voters[msg.sender] = true;
+        proposals[_proposalId].voteCount++;
+        emit Voted(_proposalId);
+    }
+}
