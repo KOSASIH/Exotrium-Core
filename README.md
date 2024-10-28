@@ -58,6 +58,16 @@
 [![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco_CCNA-Certified-1BA0E0?style=flat&logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Certified-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-Certified-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/)
+[![Certified Kubernetes Administrator (CKA)](https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-326CE5?style=flat&logo=kubernetes)](https://www.cncf.io/certification/cka/)
+[![Oracle Certified Professional](https://img.shields.io/badge/Oracle_Certified_Professional-Certified-F80000?style=flat&logo=oracle)](https://education.oracle.com/oracle-certified-professional-java-se-11-developer/overview/pls/ocp)
+[![PMP Certified](https://img.shields.io/badge/PMP-Certified-6C8EBF?style=flat&logo=pmp)](https://www.pmi.org/certifications/project-management-pmp)
+[![Scrum Master Certified (SMC)](https://img.shields.io/badge/Scrum_Master_Certified-SMC-FFB300?style=flat&logo=scrum)](https://www.scrum.org/)
+[![Certified Ethical Hacker (CEH)](https://img.shields.io/badge/Certified_Ethical_Hacker-CEH-5C5C5C?style=flat&logo=ec-council)](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
+[![Adobe Certified Expert (ACE)](https://img.shields.io/badge/Adobe_Certified_Expert-ACE-FF3F00?style=flat&logo=adobe)](https://helpx.adobe.com/certification.html)
+[![Red Hat Certified Engineer (RHCE)](https://img.shields.io/badge/Red_Hat_Certified_Engineer-RHCE-CC0000?style=flat&logo=redhat)](https://www.redhat.com/en/services/certification/rhce)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-0072C6?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
+[![Salesforce Certified Administrator](https://img.shields.io/badge/Salesforce_Certified_Administrator-Certified-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/administrator)
+[![Certified Data Professional (CDP)](https://img.shields.io/badge/Certified_Data_Professional-CDP-0072B1?style=flat&logo=data)](https://www.dama.org/certification/certified-data-professional)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
