@@ -53,6 +53,12 @@
 [![Waves Certified](https://img.shields.io/badge/Waves-Certified-1C1C1C?style=flat&logo=waves)](https://waves.tech/)
 [![Ravencoin Certified](https://img.shields.io/badge/Ravencoin-Certified-8B0000?style=flat&logo=ravencoin)](https://ravencoin.org/)
 
+[![CompTIA A+ Certified](https://img.shields.io/badge/CompTIA_A%2B-Certified-EA7C30?style=flat&logo=comptia)](https://www.comptia.org/certifications/a)
+[![Microsoft Certified: Azure Fundamentals](https://img.shields.io/badge/Microsoft_Azure_Fundamentals-Certified-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[![Cisco Certified Network Associate (CCNA)](https://img.shields.io/badge/Cisco_CCNA-Certified-1BA0E0?style=flat&logo=cisco)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
+[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Certified-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Google Cloud Certified](https://img.shields.io/badge/Google_Cloud_Certified-Certified-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # Exotrium-Core
