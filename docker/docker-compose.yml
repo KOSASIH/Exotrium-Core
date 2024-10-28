@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000" # Map host port 3000 to container port 3000
+    environment:
+      - NODE_ENV=development
+      - MONGODB_URI=mongodb://db:27017/myapp_dev
+      - JWT_SECRET=dev-secret-key
+    depends_on:
+      - db
+    volumes:
+      - .:/usr/src/app # Mount the current directory to the container for live updates
+
+  db:
+    image: mongo:latest
+    ports:
+      - "27017:27017" # Map host port 27017 to container port 27017
+    volumes:
+      - mongo_data:/data/db # Persist MongoDB data
+
+volumes:
+  mongo_data:
