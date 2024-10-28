@@ -1,0 +1,71 @@
+// ci/Jenkinsfile
+
+pipeline {
+    agent any
+
+    environment {
+        NODE_VERSION = '16'
+        APP_NAME = 'MyApp'
+        MONGODB_URI = 'mongodb://localhost:27017/myapp_dev'
+    }
+
+    stages {
+        stage('Checkout') {
+            steps {
+                git branch: 'main', url: 'https://github.com/yourusername/your-repo.git'
+            }
+        }
+
+        stage('Install Dependencies') {
+            steps {
+                script {
+                    sh "nvm install ${NODE_VERSION}"
+                    sh "npm install"
+                }
+            }
+        }
+
+        stage('Run Tests') {
+            steps {
+                sh "npm test"
+            }
+        }
+
+        stage('Build Application') {
+            steps {
+                sh "npm run build"
+            }
+        }
+
+        stage('Lint Code') {
+            steps {
+                sh "npm run lint"
+            }
+        }
+
+        stage('Deploy to Staging') {
+            when {
+                branch 'develop'
+            }
+            steps {
+                script {
+                    echo "Deploying to Staging..."
+                    // Add your deployment script here
+                }
+            }
+        }
+    }
+
+    post {
+        always {
+            archiveArtifacts artifacts: '**/build/**', fingerprint: true
+            junit '**/test-results/*.xml'
+        }
+        success {
+            echo 'Pipeline succeeded!'
+        }
+        failure {
+            echo 'Pipeline failed!'
+        }
+    }
+}
