@@ -47,7 +47,6 @@
 [![Injective Protocol Certified](https://img.shields.io/badge/Injective%20Protocol-Certified-00B2A9?style=flat&logo=injective)](https://injectiveprotocol.com/)
 [![Nervos Certified](https://img.shields.io/badge/Nervos-Certified-FF4B00?style=flat&logo=nervos)](https://www.nervos.org/)
 [![Holochain Certified](https://img.shields.io/badge/Holochain-Certified-FF4B00?style=flat&logo=holetype)](https://holochain.org/)
-[![Stacks Certified](https://img.shields.io/badge/Stacks-Certified-00AAB6?style=flat&logo=stacks)](https://www.stacks.co/)
 [![OriginTrail Certified](https://img.shields.io/badge/OriginTrail-Certified-4B8B3B?style=flat&logo=origintrail)](https://origintrail.io/)
 [![Telos Certified](https://img.shields.io/badge/Telos-Certified-00B2A9?style=flat&logo=telos)](https://telos.net/)
 [![Waves Certified](https://img.shields.io/badge/Waves-Certified-1C1C1C?style=flat&logo=waves)](https://waves.tech/)
@@ -68,6 +67,16 @@
 [![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-0072C6?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
 [![Salesforce Certified Administrator](https://img.shields.io/badge/Salesforce_Certified_Administrator-Certified-00A1E0?style=flat&logo=salesforce)](https://trailhead.salesforce.com/credentials/administrator)
 [![Certified Data Professional (CDP)](https://img.shields.io/badge/Certified_Data_Professional-CDP-0072B1?style=flat&logo=data)](https://www.dama.org/certification/certified-data-professional)
+[![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Microsoft_Azure_Solutions_Architect_Expert-Certified-0078D4?style=flat&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect-expert/)
+[![AWS Certified Developer](https://img.shields.io/badge/AWS_Certified_Developer-Certified-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-developer-associate/)
+[![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/Certified_Information_Systems_Auditor-CISA-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cisa)
+[![Certified ScrumMaster (CSM)](https://img.shields.io/badge/Certified_ScrumMaster-CSM-FB8C00?style=flat&logo=scrum)](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster)
+[![Google Professional Data Engineer](https://img.shields.io/badge/Google_Professional_Data_Engineer-Certified-4285F4?style=flat&logo=googlecloud)](https://cloud.google.com/certification/data-engineer)
+[![IBM Certified Data Scientist](https://img.shields.io/badge/IBM_Certified_Data_Scientist-Certified-4B8BBE?style=flat&logo=ibm)](https://www.ibm.com/certification/certified-data-scientist/)
+[![Certified Cloud Security Professional (CCSP)](https://img.shields.io/badge/CCSP-Certified-0072C6?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CCSP)
+[![Microsoft Certified: Power BI Data Analyst](https://img.shields.io/badge/Microsoft_Power_BI_Data_Analyst-Certified-FFB900?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst/)
+[![AWS Certified Solutions Architect - Professional](https://img.shields.io/badge/AWS_Certified_Solutions_Architect_Professional-Certified-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/Certified_Information_Security_Manager-CISM-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
