@@ -35,7 +35,6 @@
 [![FIO Protocol Certified](https://img.shields.io/badge/FIO%20Protocol-Certified-00B2A9?style=flat&logo=fio)](https://fioprotocol.io/)
 [![Wanchain Certified](https://img.shields.io/badge/Wanchain-Certified-4B8B3B?style=flat&logo=wanchain)](https://wanchain.org/)
 [![Syscoin Certified](https://img.shields.io/badge/Syscoin-Certified-4B8B3B?style=flat&logo=syscoin)](https://syscoin.org/)
-[![OriginTrail Certified](https://img.shields.io/badge/OriginTrail-Certified-4B8B3B?style=flat&logo=origintrail)](https://origintrail.io/)
 [![Arweave Certified](https://img.shields.io/badge/Arweave-Certified-4B8B3B?style=flat&logo=arweave)](https://www.arweave.org/)
 [![Ocean Protocol Certified](https://img.shields.io/badge/Ocean%20Protocol-Certified-0072B8?style=flat&logo=oceanprotocol)](https://oceanprotocol.com/)
 [![Chiliz Certified](https://img.shields.io/badge/Chiliz-Certified-00A3E0?style=flat&logo=chiliz)](https://chiliz.com/)
