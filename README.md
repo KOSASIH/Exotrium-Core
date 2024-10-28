@@ -106,6 +106,17 @@
 [![International Financial Reporting Standards (IFRS)](https://img.shields.io/badge/International_Financial_Reporting_Standards-IFRS-0072C6?style=flat&logo=ifrs)](https://www.ifrs.org/)
 [![Financial Planning Association (FPA)](https://img.shields.io/badge/Financial_Planning_Association-FPA-0072B8?style=flat&logo=fpa)](https://www.onefpa.org/)
 
+[![International Monetary Fund (IMF)](https://img.shields.io/badge/IMF-Member-0072C6?style=flat&logo=imf)](https://www.imf.org/en/Home)
+[![World Trade Organization (WTO)](https://img.shields.io/badge/WTO-Member-FF9900?style=flat&logo=wto)](https://www.wto.org/)
+[![Financial Action Task Force (FATF)](https://img.shields.io/badge/FATF-Member-0072C6?style=flat&logo=fatf)](https://www.fatf-gafi.org/)
+[![International Finance Corporation (IFC)](https://img.shields.io/badge/IFC-Member-FF9900?style=flat&logo=ifc)](https://www.ifc.org/)
+[![European Investment Bank (EIB)](https://img.shields.io/badge/EIB-Member-0072C6?style=flat&logo=eib)](https://www.eib.org/en/)
+[![International Bank for Reconstruction and Development (IBRD)](https://img.shields.io/badge/IBRD-Member-FF9900?style=flat&logo=ibrd)](https://www.worldbank.org/en/who-we-are/ibrd)
+[![International Development Association (IDA)](https://img.shields.io/badge/IDA-Member-0072C6?style=flat&logo=ida)](https://www.worldbank.org/en/who-we-are/ida)
+[![International Accounting Standards Board (IASB)](https://img.shields.io/badge/IASB-Member-FF9900?style=flat&logo=iasb)](https://www.ifrs.org/)
+[![Financial Industry Regulatory Authority (FINRA)](https://img.shields.io/badge/FINRA-Member-0072C6?style=flat&logo=finra)](https://www.finra.org/)
+[![Securities and Exchange Commission (SEC)](https://img.shields.io/badge/SEC-Member-FF9900?style=flat&logo=sec)](https://www.sec.gov/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # Exotrium-Core
