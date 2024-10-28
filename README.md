@@ -134,6 +134,15 @@
 [![International Accounting Standards Board (IASB)](https://img.shields.io/badge/IASB-Member-FF9900?style=flat&logo=iasb)](https://www.ifrs.org/)
 [![Financial Industry Regulatory Authority (FINRA)](https://img.shields.io/badge/FINRA-Member-0072C6?style=flat&logo=finra)](https://www.finra.org/)
 [![Securities and Exchange Commission (SEC)](https://img.shields.io/badge/SEC-Member-FF9900?style=flat&logo=sec)](https://www.sec.gov/)
+[![Stanford Blockchain](https://img.shields.io/badge/Stanford_Blockchain-Program-8B0000?style=flat&logo=bitcoin)](https://cyber.stanford.edu/)
+[![Stanford Center for Blockchain Research](https://img.shields.io/badge/Stanford_Center_for_Blockchain_Research-Member-FF4500?style=flat&logo=ethereum)](https://cbr.stanford.edu/)
+[![Blockchain Education Network](https://img.shields.io/badge/Blockchain_Education_Network-Member-4B0082?style=flat&logo=bitcoin)](https://www.blockchainedu.org/)
+[![Hyperledger](https://img.shields.io/badge/Hyperledger-Member-00BFFF?style=flat&logo=hyperledger)](https://www.hyperledger.org/)
+[![Ethereum Foundation](https://img.shields.io/badge/Ethereum_Foundation-Member-3C3C3D?style=flat&logo=ethereum)](https://ethereum.org/en/foundation/)
+[![Blockchain Research Institute](https://img.shields.io/badge/Blockchain_Research_Institute-Member-FF9900?style=flat&logo=blockchain)](https://www.blockchainresearchinstitute.org/)
+[![International Blockchain Association](https://img.shields.io/badge/International_Blockchain_Association-Member-0072C6?style=flat&logo=blockchain)](https://www.ibassociation.org/)
+[![Bitcoin Association](https://img.shields.io/badge/Bitcoin_Association-Member-F7931A?style=flat&logo=bitcoin)](https://bitcoinassociation.net/)
+[![Global Blockchain Business Council](https://img.shields.io/badge/Global_Blockchain_Business_Council-Member-32CD32?style=flat&logo=blockchain)](https://gbbcouncil.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
