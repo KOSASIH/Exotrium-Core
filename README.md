@@ -36,6 +36,22 @@
 [![Wanchain Certified](https://img.shields.io/badge/Wanchain-Certified-4B8B3B?style=flat&logo=wanchain)](https://wanchain.org/)
 [![Syscoin Certified](https://img.shields.io/badge/Syscoin-Certified-4B8B3B?style=flat&logo=syscoin)](https://syscoin.org/)
 [![OriginTrail Certified](https://img.shields.io/badge/OriginTrail-Certified-4B8B3B?style=flat&logo=origintrail)](https://origintrail.io/)
+[![Arweave Certified](https://img.shields.io/badge/Arweave-Certified-4B8B3B?style=flat&logo=arweave)](https://www.arweave.org/)
+[![Ocean Protocol Certified](https://img.shields.io/badge/Ocean%20Protocol-Certified-0072B8?style=flat&logo=oceanprotocol)](https://oceanprotocol.com/)
+[![Chiliz Certified](https://img.shields.io/badge/Chiliz-Certified-00A3E0?style=flat&logo=chiliz)](https://chiliz.com/)
+[![Basic Attention Token Certified](https://img.shields.io/badge/Basic%20Attention%20Token-Certified-FF3B00?style=flat&logo=basicattentiontoken)](https://basicattentiontoken.org/)
+[![NKN Certified](https://img.shields.io/badge/NKN-Certified-FF4B00?style=flat&logo=nkn)](https://nkn.org/)
+[![Render Token Certified](https://img.shields.io/badge/Render%20Token-Certified-FF3B00?style=flat&logo=render)](https://render.network/)
+[![Kadena Certified](https://img.shields.io/badge/Kadena-Certified-00B2A9?style=flat&logo=kadena)](https://kadena.io/)
+[![Synthetix Certified](https://img.shields.io/badge/Synthetix-Certified-4B8B3B?style=flat&logo=synthetix)](https://synthetix.io/)
+[![Injective Protocol Certified](https://img.shields.io/badge/Injective%20Protocol-Certified-00B2A9?style=flat&logo=injective)](https://injectiveprotocol.com/)
+[![Nervos Certified](https://img.shields.io/badge/Nervos-Certified-FF4B00?style=flat&logo=nervos)](https://www.nervos.org/)
+[![Holochain Certified](https://img.shields.io/badge/Holochain-Certified-FF4B00?style=flat&logo=holetype)](https://holochain.org/)
+[![Stacks Certified](https://img.shields.io/badge/Stacks-Certified-00AAB6?style=flat&logo=stacks)](https://www.stacks.co/)
+[![OriginTrail Certified](https://img.shields.io/badge/OriginTrail-Certified-4B8B3B?style=flat&logo=origintrail)](https://origintrail.io/)
+[![Telos Certified](https://img.shields.io/badge/Telos-Certified-00B2A9?style=flat&logo=telos)](https://telos.net/)
+[![Waves Certified](https://img.shields.io/badge/Waves-Certified-1C1C1C?style=flat&logo=waves)](https://waves.tech/)
+[![Ravencoin Certified](https://img.shields.io/badge/Ravencoin-Certified-8B0000?style=flat&logo=ravencoin)](https://ravencoin.org/)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/Exotrium-Core">Exotrium</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
