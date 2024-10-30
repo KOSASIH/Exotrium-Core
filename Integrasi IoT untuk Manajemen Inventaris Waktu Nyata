@@ -1,0 +1,22 @@
+import paho.mqtt.client as mqtt
+
+# Callback saat koneksi berhasil
+def on_connect(client, userdata, flags, rc):
+    print(f"Terhubung dengan kode {rc}")
+    client.subscribe("inventory/updates")
+
+# Callback saat pesan diterima
+def on_message(client, userdata, msg):
+    print(f"Pesan diterima: {msg.topic} {msg.payload}")
+    # Update inventaris berdasarkan data yang diterima
+    update_inventory(msg.payload)
+
+# Koneksi ke broker MQTT
+client = mqtt.Client()
+client.on_connect = on_connect
+client.on_message = on_message
+
+client.connect("mqtt_broker_address", 1883, 60)
+
+# Looping client
+client.loop_forever()

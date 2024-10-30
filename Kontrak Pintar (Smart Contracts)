@@ -1,0 +1,57 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract ExotriumCore {
+    address public owner;
+    
+    // Struktur data untuk Produk
+    struct Product {
+        uint id;
+        string name;
+        uint price;
+        address payable seller;
+        bool sold;
+    }
+
+    uint public productCount = 0;
+    mapping(uint => Product) public products;
+
+    event ProductCreated(
+        uint id,
+        string name,
+        uint price,
+        address payable seller,
+        bool sold
+    );
+
+    event ProductSold(
+        uint id,
+        string name,
+        uint price,
+        address payable seller,
+        bool sold
+    );
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    function createProduct(string memory _name, uint _price) public {
+        require(_price > 0, "Harga harus lebih dari 0");
+        productCount++;
+        products[productCount] = Product(productCount, _name, _price, payable(msg.sender), false);
+        emit ProductCreated(productCount, _name, _price, payable(msg.sender), false);
+    }
+
+    function purchaseProduct(uint _id) public payable {
+        Product memory _product = products[_id];
+        require(_product.id > 0 && _product.id <= productCount, "Produk tidak valid");
+        require(msg.value >= _product.price, "Tidak cukup Ether");
+        require(!_product.sold, "Produk sudah terjual");
+        
+        _product.seller.transfer(msg.value);
+        _product.sold = true;
+        products[_id] = _product;
+        emit ProductSold(_id, _product.name, _product.price, _product.seller, true);
+    }
+}

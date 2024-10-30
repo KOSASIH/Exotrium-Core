@@ -1,0 +1,32 @@
+import pandas as pd
+from sklearn.metrics.pairwise import cosine_similarity
+from sklearn.preprocessing import MinMaxScaler
+
+# Contoh data produk dan transaksi
+products = pd.DataFrame({
+    'product_id': [1, 2, 3, 4, 5],
+    'name': ['Produk A', 'Produk B', 'Produk C', 'Produk D', 'Produk E']
+})
+
+transactions = pd.DataFrame({
+    'user_id': [1, 1, 2, 2, 3],
+    'product_id': [1, 2, 2, 3, 1],
+    'rating': [5, 3, 4, 2, 4]
+})
+
+# Matriks pengguna-produk
+user_product_matrix = transactions.pivot_table(index='user_id', columns='product_id', values='rating').fillna(0)
+
+# Menghitung kesamaan antar pengguna
+user_similarity = cosine_similarity(user_product_matrix)
+user_similarity_df = pd.DataFrame(user_similarity, index=user_product_matrix.index, columns=user_product_matrix.index)
+
+# Memberikan rekomendasi untuk pengguna tertentu
+def recommend_products(user_id, num_recommendations=3):
+    similar_users = user_similarity_df[user_id].sort_values(ascending=False).index[1:]
+    similar_transactions = transactions[transactions['user_id'].isin(similar_users)]
+    recommended_products = similar_transactions['product_id'].value_counts().head(num_recommendations).index
+    return products[products['product_id'].isin(recommended_products)]
+
+# Contoh rekomendasi untuk pengguna dengan user_id = 1
+print(recommend_products(1))
